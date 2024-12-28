@@ -2,6 +2,8 @@
 
 int main(void){
     
-    printf("Hello World!");
+    char name[20] = "Tampan sipit";
+
+    printf("%s\n", name);
     return 0;
 }
